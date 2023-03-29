@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'dgjavasample'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4D7884DF8054F1D9D477B9E39BF736B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B847788424194B6A80FD11CCA6390869 }}
           package: '*.jar'
